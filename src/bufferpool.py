@@ -95,9 +95,11 @@ class Bufferpool:
             #write_back_to_page
 
     def flush_to_disk(self,pid):
+        #file.write
         pass
 
     def read_from_disk(self,pid):
+        #file.read()
         pass
 
 
